@@ -1,7 +1,5 @@
-This front-end layout was created to try to improve my knowledge of Bootstrap.
+This front-end layout was created to try to improve my knowledge of HTML, CSS and JavaScript.
 ====================================
-* Building from Bootstrap 4, HTML5 and CSS3.
-* Version: Bootstrap 4.4.1 (CDN)
 
 **Setup**
 * Operacional System: Linux Deepin Edition 15.11 Desktop
